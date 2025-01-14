@@ -1,1 +1,4 @@
 # Tick.tack.toe
+Tic Tac Toe is a classic two-player game that is simple yet engaging. Players take turns marking a space on a 3x3 grid, with the objective of getting three of their marks (either "X" or "O") in a row, either horizontally, vertically, or diagonally. The first player to accomplish this wins the game, and if all spaces are filled without either player achieving three in a row, the game ends in a draw.
+
+This version of Tic Tac Toe is designed with an interactive user interface, featuring a sleek layout with vibrant colors and responsive animations. Players can reset the game anytime with the click of a button. Additionally, social media links and options for easy sharing and liking enhance the experience, making it both fun and easy to engage with others. The game also includes customizable settings, such as difficulty levels and theme changes, ensuring an enjoyable and customizable experience for players of all skill levels
